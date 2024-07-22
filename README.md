@@ -20,8 +20,8 @@
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live Site URL]()
+- Solution URL: [Solution URL](https://github.com/JasperMunene/saas-landing)
+- Live Site URL: [Live Site URL](https://saaslanding0.netlify.app/)
 
 ## My process
 
